@@ -1,0 +1,21 @@
+{
+    "name": "eduardoalves/mvc-project",
+    "description": "php mvc project to build systems without using frameworks",
+    "type": "project",
+    "require": {
+        "nicollassilva/minasrouter": "^1.0",
+        "nicollassilva/minasorm": "^0.19.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eduardoalves\\MvcProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edualvesz",
+            "email": "ea-hendrix@hotmail.com"
+        }
+    ]
+}
